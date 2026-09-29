@@ -1,5 +1,8 @@
 # BlendHubApp
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=windows)](https://github.com/ayyldzlatif/BlendHubApp-Releases/releases/latest)
+
+
 **Unified Business Workspace for Windows**
 
 BlendHubApp brings your communication and work tools together in a single desktop application.
